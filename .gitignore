@@ -1,0 +1,10 @@
+out/*.mtc*
+out/*.log
+out/*.maf
+out/*.toc
+out/*.ptc*
+cruft/
+minutes.zip
+minutes/
+*~
+out/*.aux
